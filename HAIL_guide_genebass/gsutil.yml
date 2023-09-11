@@ -1,0 +1,6 @@
+name: gsutil
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.5
+  - gsutil=5.15
